@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://imgs.search.brave.com/T1vckS1lwbddXwTXc2xUNyQchw_nK8TGi3encoHcFrE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMy/NDQxMzY5MS9waG90/by9iZWF1dGlmdWwt/c2t5LXdpdGgtd2hp/dGUtY2xvdWRzLndl/YnA_Yj0xJnM9MTcw/NjY3YSZ3PTAmaz0y/MCZjPU42UmdWejR2/eHo5V1N0YnVmazly/a0lON1JIc1F3Umgy/Mkk2dlhSa0xZV0U9");
+    background-size: cover;
+    height: 100vh;
+}
+
+H1 {
+    font-family: Bree serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: #76D7C4;
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-size: cover;
+    height: 10vh;
+    width: 50vw;
+    text-align: center;
+    margin-left: 60px;
+}
+
+h3 {
+    background-color: #607a90;
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-size: cover;
+    height: 10vh;
+    width: 50vw;
+    text-align: center;
+    margin-left: 140px;
+}
+
+.custom-outline-button {
+    color: #ff6f69;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ff6f69;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+.button1 {
+    color: #C6C4C3;
+    background-color: #636161;
+    width: 40vw;
+    height: 6vh;
+    border-width: 0px;
+    border-radius: 20px;
+    margin-left: 100px;
+    font-size: 15px;
+}
+
+.mic {
+    text-align: right;
+    margin-right: 100px;
+
+}
+
+.arrow {
+    text-align: right;
+    margin-left: 30px;
+}
